@@ -16,6 +16,6 @@
       <div class="title">Laravel 5</div>
 
     </div>
-  
+
 
 @stop
