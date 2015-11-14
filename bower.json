@@ -1,0 +1,9 @@
+{
+  "name": "LaravelStarter",
+  "dependencies": {},
+  "devDependencies": {
+    "gridle": "~2.0.43",
+    "vue": "~1.0.8",
+    "jquery": "~2.1.4"
+  }
+}
